@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>NeuroEvolution : Flappy Bird</title>
+	<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+</head>
+<body>
+	<canvas id="flappy" width="500" height="512"></canvas> <canvas id="flappy2" width="500" height="512"></canvas> <br/>
+	<button onclick="speed(60)">x1</button> 
+	<button onclick="speed(120)">x2</button> 
+	<button onclick="speed(300)">x5</button> 
+	<button onclick="speed(600)">x10</button> 
+	<button onclick="speed(0)">MAX</button> 
+	<br/>
+	
+	<script src = "pid.js"></script>
+	<script src = "RailP.js"></script>
+	<script src = "tools/sprintf.js"></script>
+</body>
+</html>
