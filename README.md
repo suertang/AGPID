@@ -12,17 +12,19 @@ I did some modification to make this model automaticlly calibrate the PID parame
 
 To install:
 ```
-git clone https://github.com/suertang/GAPID.git```
+git clone https://github.com/suertang/GAPID.git
+```
 
 To run:
 ```
-Open index.html and allow script to run.```
+Open index.html and allow script to run.
+```
 
 The training will be automaticlly started.
 You can speed it up by click the button in below.
 
 
-![Animations](https://github.com/suertang/AGPID/raw/master/img/2018-07-11_11h02_45.gif)
+![Animations](https://github.com/suertang/GAPID/raw/master/img/2018-07-11_11h02_45.gif)
 
 TODO:
 1. Update the comments.
