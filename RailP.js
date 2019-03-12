@@ -308,7 +308,7 @@ Game.prototype.display = function(){
 
 
 	this.ctx1.clearRect(0,0,this.width, this.height)
-	this.ctx1.font="10px sans-serif";
+	this.ctx1.font="12px Oswald, sans-serif";
 	var b=3;
 	this.ctx1.fillText("Birds that alive: ",10, 12)
 	this.ctx1.fillText("Num |Kp    |Ki    |Kd    |",10, 24)
@@ -368,8 +368,8 @@ window.onload = function(){
 	var sprites = {
 		bird:"./img/bird.png",
 		background:"./img/background.png",
-		pipetop:"./img/pipetop.png",
-		pipebottom:"./img/pipebottom.png",
+		//pipetop:"./img/pipetop.png",
+		//pipebottom:"./img/pipebottom.png",
 		setpoint:"./img/setpoint.png",
 		connect:"./img/connect.png"
 	}
