@@ -24,7 +24,7 @@ The training will be automaticlly started.
 You can speed it up by click the button in below.
 
 
-![Animations](https://github.com/suertang/GAPID/raw/master/img/2018-07-11_11h02_45.gif)
+![Animations](https://github.com/suertang/GAPID/raw/master/img/ani.gif)
 
 TODO:
 1. Update the comments.
